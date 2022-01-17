@@ -15,6 +15,7 @@ public class SpeedLock : MonoBehaviour
     [SerializeField] private GameObject WinPanel;
     [SerializeField] private GameObject StartPanel;
 
+
     int a, b, c;
 
     public void Start()
